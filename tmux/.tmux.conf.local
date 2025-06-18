@@ -1,0 +1,5 @@
+set -g default-shell "/usr/local/bin/fish"
+
+# On macOS, use reattach-to-user-namespace for clipboard integration
+set -g default-command "reattach-to-user-namespace -l /usr/local/bin/fish"
+
