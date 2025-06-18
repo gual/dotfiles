@@ -1,0 +1,13 @@
+{
+    "workbench.colorTheme": "Tokyo Night",
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "launch": {
+        "configurations": [],
+        "compounds": []
+    },
+    "editor.fontFamily": "'Monaspace Neon', monospace",
+    "editor.inlineSuggest.fontFamily": "'Monaspace Krypton', monospace",
+    "editor.fontLigatures": "'calt', 'liga', 'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'ss07', 'ss08', 'ss09'"
+}
+
